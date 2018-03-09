@@ -1,13 +1,37 @@
 The sources of the icons used in the theme. The original files can be found in the 'svg' directory.
 
+- Arch Linux:
+	https://www.archlinux.org/art/
+
 - Android:
   https://developer.android.com/distribute/marketing-tools/brand-guidelines.html
 
 - Apple:
   https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg
 
+- CentOS:
+	https://wiki.centos.org/ArtWork/Brand/Logo
+
+- Chrome:
+	https://www.flaticon.com/free-icon/google-chrome_220784
+
+- Debian:
+	https://www.debian.org/logos/
+
 - Elementary OS:
   https://github.com/elementary/brand
 
+- Fedora:
+	https://commons.wikimedia.org/wiki/File:Fedora_logo.svg
+
+- Linux:
+	https://www.flaticon.com/free-icon/linux-logo_25719
+
 - Ubuntu:
   https://design.ubuntu.com/downloads
+
+- Unknown:
+	https://www.flaticon.com/free-icon/question-mark-button_69464
+
+- Windows:
+  https://commons.wikimedia.org/wiki/File:Windows_logo_-_2012.svg
