@@ -1,0 +1,13 @@
+The sources of the icons used in the theme. The original files can be found in the 'svg' directory.
+
+- Android:
+  https://developer.android.com/distribute/marketing-tools/brand-guidelines.html
+
+- Apple:
+  https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg
+
+- Elementary OS:
+  https://github.com/elementary/brand
+
+- Ubuntu:
+  https://design.ubuntu.com/downloads
