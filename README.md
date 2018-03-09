@@ -2,7 +2,7 @@
 
 A simple, dark theme for the [rEFInd boot manager](http://www.rodsbooks.com/refind).
 
-![Screenshot](screenshot.bmp)
+![Screenshot](screenshot.png)
 
 
 ## Installation
