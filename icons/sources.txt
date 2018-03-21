@@ -58,3 +58,9 @@ Operating systems:
 
 - Windows:
   https://commons.wikimedia.org/wiki/File:Windows_logo_-_2012.svg
+
+
+Tools:
+
+- Rescue:
+	https://www.flaticon.com/free-icon/life-preserver_67846
