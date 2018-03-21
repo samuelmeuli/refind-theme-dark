@@ -1,5 +1,28 @@
 The sources of the icons used in the theme. The original files can be found in the 'svg' directory.
 
+Functions:
+
+- About:
+	https://www.flaticon.com/free-icon/info_159651
+
+- Exit:
+	https://www.flaticon.com/free-icon/exit-to-app-button_61208
+
+- Firmware:
+	https://www.flaticon.com/free-icon/memory-chip_60981
+
+- Hidden:
+	https://www.flaticon.com/free-icon/recycle-symbol-of-three-arrows_52066
+
+- Reset:
+	https://www.flaticon.com/free-icon/refresh_159612
+
+- Shut down:
+	https://www.flaticon.com/free-icon/power_159607
+
+
+Operating systems:
+
 - Arch Linux:
 	https://www.archlinux.org/art/
 
