@@ -18,9 +18,9 @@ A simple, dark theme for the [rEFInd boot manager](http://www.rodsbooks.com/refi
 
 If you have a request for a new icon, please either follow the steps below (you'll need [Affinity Designer](https://affinity.serif.com/designer)) or create an issue with an URL to the icon (in SVG format).
 
-1.  Add the SVG file of the new icon to `icons/svg`
+1.  Add the SVG file of the new icon to `icons/originals`
 2.  Add the source of the file to `icons/sources.txt`
-3.  Using Affinity Designer, create a new artboard for the icon in `icons/icons.afdesign` and export it as a PNG file to `icons/png`
+3.  Using Affinity Designer, create a new artboard for the icon in `icons/icons.afdesign` and export it as a PNG file to `icons/output`
 4.  Create a PR
 
 
