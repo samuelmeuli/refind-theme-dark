@@ -1,30 +1,32 @@
-The sources of the icons used in the theme. The original files can be found in the 'svg' directory.
+The following are the sources of the icons used in the theme.
+The unmodified files can be found in the 'originals' directory.
+The edited files are in the 'output' directory.
 
 Functions:
 
 - About:
-	https://www.flaticon.com/free-icon/info_159651
+  https://www.flaticon.com/free-icon/info_159651
 
 - Exit:
-	https://www.flaticon.com/free-icon/exit-to-app-button_61208
+  https://www.flaticon.com/free-icon/exit-to-app-button_61208
 
 - Firmware:
-	https://www.flaticon.com/free-icon/memory-chip_60981
+  https://www.flaticon.com/free-icon/memory-chip_60981
 
 - Hidden:
-	https://www.flaticon.com/free-icon/recycle-symbol-of-three-arrows_52066
+  https://www.flaticon.com/free-icon/recycle-symbol-of-three-arrows_52066
 
 - Reset:
-	https://www.flaticon.com/free-icon/refresh_159612
+  https://www.flaticon.com/free-icon/refresh_159612
 
 - Shut down:
-	https://www.flaticon.com/free-icon/power_159607
+  https://www.flaticon.com/free-icon/power_159607
 
 
 Operating systems:
 
 - Arch Linux:
-	https://www.archlinux.org/art/
+  https://www.archlinux.org/art/
 
 - Android:
   https://developer.android.com/distribute/marketing-tools/brand-guidelines.html
@@ -33,28 +35,28 @@ Operating systems:
   https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg
 
 - CentOS:
-	https://wiki.centos.org/ArtWork/Brand/Logo
+  https://wiki.centos.org/ArtWork/Brand/Logo
 
 - Chrome:
-	https://www.flaticon.com/free-icon/google-chrome_220784
+  https://www.flaticon.com/free-icon/google-chrome_220784
 
 - Debian:
-	https://www.debian.org/logos/
+  https://www.debian.org/logos/
 
 - Elementary OS:
   https://github.com/elementary/brand
 
 - Fedora:
-	https://commons.wikimedia.org/wiki/File:Fedora_logo.svg
+  https://commons.wikimedia.org/wiki/File:Fedora_logo.svg
 
 - Linux:
-	https://www.flaticon.com/free-icon/linux-logo_25719
+  https://www.flaticon.com/free-icon/linux-logo_25719
 
 - Ubuntu:
   https://design.ubuntu.com/downloads
 
 - Unknown:
-	https://www.flaticon.com/free-icon/question-mark-button_69464
+  https://www.flaticon.com/free-icon/question-mark-button_69464
 
 - Windows:
   https://commons.wikimedia.org/wiki/File:Windows_logo_-_2012.svg
@@ -63,4 +65,4 @@ Operating systems:
 Tools:
 
 - Rescue:
-	https://www.flaticon.com/free-icon/life-preserver_67846
+  https://www.flaticon.com/free-icon/life-preserver_67846
