@@ -52,6 +52,9 @@ Operating systems:
 - Linux:
   https://www.flaticon.com/free-icon/linux-logo_25719
 
+- Pop OS:
+  /usr/share/icons/pop-os-branding/pop_icon.svg (on Pop OS system)
+
 - Ubuntu:
   https://design.ubuntu.com/downloads
 
